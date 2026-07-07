@@ -1,0 +1,21 @@
+Review,Rating,Sentiment
+Excellent product. I loved it.,5,Positive
+Very good quality and fast delivery.,5,Positive
+Amazing product highly recommended.,5,Positive
+Worth every penny.,4,Positive
+Good quality satisfied with the purchase.,4,Positive
+Nice product and easy to use.,4,Positive
+Average product nothing special.,3,Positive
+It's okay neither good nor bad.,3,Positive
+Product is fine but delivery was late.,3,Positive
+Packaging was average.,3,Negative
+Bad quality disappointed.,2,Negative
+Waste of money.,1,Negative
+Very poor experience.,1,Negative
+Product stopped working after two days.,1,Neutral
+Not worth buying.,2,Negative
+Excellent customer service.,5,Positive
+Superb quality.,5,Positive
+Horrible product.,1,Negative
+I am happy with this purchase.,5,Positive
+I will never buy this again.,1,Neutral
